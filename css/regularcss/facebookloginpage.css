@@ -1,0 +1,171 @@
+.pol{
+    background-color: #2e2d74;
+    padding:20px;
+    height:92px;
+    border-bottom:1px solid #133783
+   
+}
+body{
+    border-bottom: 1px solid black;
+}
+footer{
+    background-color:#fff;
+    width:100%;
+    min-height: 70px;
+}
+.text-downbutton{
+    font-weight:600;
+    /* background-color: black; */
+    padding-top:20px;
+    border-top:1px solid rgb(226, 216, 216);
+}
+
+.btn {
+    width:100%;
+    border:1px solid rgb(12, 145, 12);
+
+
+}
+.connect{
+    font-size:30px;
+    padding-top:55px;
+    font-weight:500;
+    padding-left:05px
+}
+.signup{
+    font-weight: bold;
+    font-size: 35px;
+    padding-left: 3px;
+    padding-top: 15px;
+}
+.quick{
+    padding-left: 3px;
+    font-size:21px;
+}
+
+.facebookname{
+    color:white;
+    font-size:40px;
+    padding-left:10px;
+    padding-bottom:100px;
+    font-weight:bold;
+}
+
+.pass{
+    padding-bottom:0px;
+
+}
+
+    
+ .tree{
+    margin-top:-5px;
+    color:white;
+    font-size: 12px;
+    
+
+ }  
+ .tree1{
+     padding-top:-15px;
+ }
+
+ .btn{
+     padding-top:px;
+ }
+ 
+ .hos{
+    padding-top: -19;
+    
+ }
+
+ .forgot{
+     text-decoration:none;
+
+ }
+
+.radio{
+    font-weight:570;
+}
+.batton{
+    
+    font-size:10px;
+    color:white;
+    background-color:rgb(133, 121, 194);
+    display: inline;
+    border-color: rgb(106, 92, 185);
+    margin-top:25px;
+}
+.forgotlink{
+    color:rgb(200, 191, 243);
+
+}
+.lopstar{
+    display: -webkit-inline-flex;
+    border-collapse: initial;
+    
+}
+.datch{
+    
+    color: white;
+    text-shadow: 8px 7px 4px gray;
+    font-size: 50px
+      
+}
+.footer{
+    /* text-align: center; */
+    /* background-color: red; */
+    color:rgb(0, 39, 12);
+    padding: 6px;
+    font-size: 14px;
+}
+#footer-line2{
+    /* background-color: red; */
+    border-top:1px solid rgb(214, 197, 197)
+}
+#link{
+    color:  #4543ac;
+}
+#footer-button{
+    border-radius: 4px;
+    width: 30px;
+    height: 25px;
+    border: 1px solid rgb(160, 146, 146);
+}
+#login{
+    padding: 5px;
+    color: white;
+    background-color: #284686;
+    border: 2px solid rgb(67, 67, 153);
+    border-radius:4px;
+    padding: 25px px;
+    /* font-size: 10px */
+    font-weight:bold;
+    
+}
+#last-text-onpage{
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
